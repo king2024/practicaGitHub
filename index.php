@@ -8,5 +8,6 @@
     <body>
     	<!--INICIO DE CODIGO HTML5-->
         <h1>Bienvenidos</h1>
+        <h2>A la virtualización</h2>
     </body>
 </html>
